@@ -147,3 +147,11 @@ if __name__ == '__main__':
 ####### work2_commit8 how to pull
 
 ####### work2_commit10
+
+####### work_commit2
+
+####### work_commit3
+
+####### work_commit4 --> merged to develop
+
+####### work_commit5
