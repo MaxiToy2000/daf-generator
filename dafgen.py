@@ -144,6 +144,7 @@ if __name__ == '__main__':
 
 ####### dev_commit1
 
+<<<<<<< HEAD
 ####### work2_commit8 how to pull
 
 ####### work2_commit10
@@ -157,3 +158,7 @@ if __name__ == '__main__':
 ####### work_commit5
 
 ####### work_commit11
+=======
+####### work2_commit7 how to pull
+
+>>>>>>> fcc317a (commit9_after pull.rebase)
